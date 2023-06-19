@@ -1,0 +1,8 @@
+django==3.2
+gunicorn
+channels
+daphne
+asgiref
+redis
+django-redis
+channels-redis
